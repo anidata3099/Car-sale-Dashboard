@@ -50,13 +50,13 @@ This project is created as part of my portfolio for **remote Data Analyst / Busi
 ---
 
 🚀 How to Use
-1. Download the <a href="https://github.com/anidata3099/Car-sale-Dashboard/blob/main/agd%20workshop.pbix"></a> file from this repository
+1. Download the <a href="https://github.com/anidata3099/Car-sale-Dashboard/blob/main/agd%20workshop.pbix"> car sale Dashboard </a> file from this repository
 2. Open it using **Power BI Desktop**
 3. Explore interactive filters and visuals to analyze sales performance
 
 ---
 
 ## 👤 Author
-**Chinmoy World**  
+Anirban Roy  
 Aspiring Data Analyst | Power BI | Data Visualization  
 
